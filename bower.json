@@ -1,0 +1,21 @@
+{
+  "name": "palladio-histogram-component",
+  "version": "0.0.0",
+  "homepage": "https://github.com/humanitiesplusdesign/palladio-histogram-component",
+  "authors": [
+    "Ethan Jewett <esjewett@gmail.com>"
+  ],
+  "description": "A component for histograms in Palladio",
+  "dependencies": {
+    "palladio": "~1.1"
+  },
+  "main": "palladio-histogram-component.js",
+  "license": "BSD 3-clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
